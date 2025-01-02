@@ -70,7 +70,7 @@
   </header>
   <section>
     <h2>About Me</h2>
-    <p>Hello! I'm a professional model and fashion designer passionate about bringing creativity and elegance to life. I am available for photoshoots, ad campaigns, and fashion design projects. Whether you need a model to showcase your brand or someone to design stylish outfits, I'm here to collaborate.</p>
+    <p>Hello! I'm a  model and fashion designer passionate about bringing creativity and elegance to life. I am available for photoshoots, ad campaigns, and fashion design projects. Whether you need a model to showcase your brand or someone to design stylish outfits, I'm here to collaborate.</p>
   </section>
   <section>
     <h2>Contact Me</h2>
